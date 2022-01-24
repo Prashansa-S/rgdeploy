@@ -1,6 +1,6 @@
 #!/bin/bash
 # Verify that utilities we use in this script are installed on the machine
-#this is a test-topic
+#this is a test-topic again
 echo "Verifying utilities are installed"
 apps=(jq aws)
 for program in "${apps[@]}"; do
